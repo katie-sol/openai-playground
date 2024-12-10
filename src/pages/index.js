@@ -8,7 +8,6 @@ const IndexPage = ({ data }) => {
     <main style={{ fontFamily: "Arial, sans-serif", padding: "20px" }}>
       <header style={{ textAlign: "center", marginBottom: "30px" }}>
         <h1>OpenAI Playground User Manual</h1>
-        <p>All content is displayed below:</p>
       </header>
 
       <section style={{ margin: "0 auto", maxWidth: "800px" }}>
